@@ -1,7 +1,7 @@
 name = "worker-serverless-cloudflare"
-type = "javascript"
+type = "webpack"
 zone_id = ""
-account_id = ""
+account_id = "1d34c20821375284a7783f9be50e14bb"
 route = ""
 workers_dev = true
 compatibility_date = "2022-02-11"
