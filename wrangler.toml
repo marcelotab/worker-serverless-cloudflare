@@ -1,5 +1,6 @@
 name = "worker-serverless-cloudflare"
 type = "webpack"
+webpack_config = "./webpack.config.js"
 zone_id = ""
 account_id = "1d34c20821375284a7783f9be50e14bb"
 route = ""
